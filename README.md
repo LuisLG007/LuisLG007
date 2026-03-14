@@ -73,7 +73,7 @@ Desarrollador **Full Stack** con experiencia en diseño, construcción y manteni
 
 ## 📂 Proyectos destacados
 
-### EmissaryX (EmissaryFront v20)
+### EmissaryX
 
 Aplicación **Angular 20** para gestión logística y envíos: cotizaciones, guías, recolecciones, órdenes, reportes, integraciones (TikTok, etc.) y flujos para repartidores (rutas, órdenes, registros). Incluye autenticación con 2FA, permisos por rol y temas (incl. Tailwind Light).
 
@@ -84,7 +84,7 @@ Aplicación **Angular 20** para gestión logística y envíos: cotizaciones, gu�
 | **Integraciones** | Google Maps, PayPal (ngx-paypal), ECharts, SweetAlert2, Quill, Excel (xlsx), crypto-js, JWT |
 | **Calidad** | ESLint, Husky, Commitlint, Karma/Jasmine, coverage, webpack-bundle-analyzer, builds por entorno (testing/stage/production) |
 
-### Universion / Link4Campus
+### Link4Campus
 
 Plataforma académica y gestión universitaria (Angular + .NET + SQL Server). He participado en la **documentación de arquitectura** para replicación en cloud.
 
