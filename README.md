@@ -73,14 +73,25 @@ Desarrollador **Full Stack** con experiencia en diseño, construcción y manteni
 
 ## 📂 Proyectos destacados
 
-### Universion / Link4Campus
+### EmissaryX (EmissaryFront v20)
 
-Plataforma académica y gestión universitaria (Angular + .NET + SQL Server). Participación en **documentación de arquitectura** para replicación en cloud:
+Aplicación **Angular 20** para gestión logística y envíos: cotizaciones, guías, recolecciones, órdenes, reportes, integraciones (TikTok, etc.) y flujos para repartidores (rutas, órdenes, registros). Incluye autenticación con 2FA, permisos por rol y temas (incl. Tailwind Light).
 
 | Área | Detalle |
 |------|---------|
-| **Stack** | Angular, TypeScript, .NET Core, ASP.NET MVC, Entity Framework, SQL Server, Oracle |
-| **Frontend** | SPA Angular, lazy loading, guards, módulos por rol, diseño responsive |
+| **Stack** | Angular 20, TypeScript 5.8, Tailwind CSS v4, PrimeNG 20, NgRx, SignalR, ngx-translate |
+| **UX** | Lazy loading por módulo, guards (`LoggedGuard`, `PermissionsGuard`), wizard de envíos, tablas configurables por rol |
+| **Integraciones** | Google Maps, PayPal (ngx-paypal), ECharts, SweetAlert2, Quill, Excel (xlsx), crypto-js, JWT |
+| **Calidad** | ESLint, Husky, Commitlint, Karma/Jasmine, coverage, webpack-bundle-analyzer, builds por entorno (testing/stage/production) |
+
+### Universion / Link4Campus
+
+Plataforma académica y gestión universitaria (Angular + .NET + SQL Server). He participado en la **documentación de arquitectura** para replicación en cloud.
+
+| Área | Detalle |
+|------|---------|
+| **Stack** | Angular, .NET Core, SQL Server, Entity Framework, ASP.NET Web API |
+| **Frontend** | SPA Angular, TypeScript, RxJS, lazy loading, guards por permisos |
 | **Azure** | Microsoft Entra ID (registros API, Front SPA, Graph), App Service (Web App .NET Core), Azure Storage (v2, RA-GRS, soft delete, versionado), MSAL y Microsoft Graph (migración desde ADAL/Azure AD Graph), Application Insights |
 | **AWS** | ECS con Fargate y/o EC2 (ASG), ECR para imágenes Docker del backend .NET, RDS SQL Server (Web Edition), VPC con múltiples AZ, ALB, Route 53, Secrets Manager, CloudWatch, Amplify para frontend |
 | **Documentación** | Inventario de servicios, checklists de replicación y buenas prácticas (TLS 1.2+, optional claims, IAM/roles, seguridad) |
