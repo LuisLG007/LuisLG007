@@ -73,25 +73,17 @@ Desarrollador **Full Stack** con experiencia en diseño, construcción y manteni
 
 ## 📂 Proyectos destacados
 
-### EmissaryX (EmissaryFront v20)
+### Universion / Link4Campus
 
-Aplicación **Angular 20** para gestión logística y envíos: cotizaciones, guías, recolecciones, órdenes, reportes, integraciones (TikTok, etc.) y flujos para repartidores (rutas, órdenes, registros). Incluye autenticación con 2FA, permisos por rol y temas (incl. Tailwind Light).
+Plataforma académica y gestión universitaria (Angular + .NET + SQL Server). Participación en **documentación de arquitectura** para replicación en cloud:
 
 | Área | Detalle |
 |------|---------|
-| **Stack** | Angular 20, TypeScript 5.8, Tailwind CSS v4, PrimeNG 20, NgRx, SignalR, ngx-translate |
-| **UX** | Lazy loading por módulo, guards (`LoggedGuard`, `PermissionsGuard`), wizard de envíos, tablas configurables por rol |
-| **Integraciones** | Google Maps, PayPal (ngx-paypal), ECharts, SweetAlert2, Quill, Excel (xlsx), crypto-js, JWT |
-| **Calidad** | ESLint, Husky, Commitlint, Karma/Jasmine, coverage, webpack-bundle-analyzer, builds por entorno (testing/stage/production) |
-
-### Universion / Link4Campus
-
-Plataforma académica y gestión universitaria (Angular + .NET + SQL Server). He participado en la **documentación de arquitectura** para replicación en cloud:
-
-- **Azure**: Microsoft Entra ID (registros API, Front SPA, Graph), App Service (Web App .NET Core), Azure Storage (v2, RA-GRS, soft delete, versionado), MSAL y Microsoft Graph (migración desde ADAL/Azure AD Graph), Application Insights.
-- **AWS**: ECS con Fargate y/o EC2 (ASG), ECR para imágenes Docker del backend .NET, RDS SQL Server (Web Edition), VPC con múltiples AZ, ALB, Route 53, Secrets Manager, CloudWatch, Amplify para frontend.
-
-Los informes incluyen inventario de servicios, checklists de replicación y buenas prácticas (TLS 1.2+, optional claims, IAM/roles, seguridad).
+| **Stack** | Angular, TypeScript, .NET Core, ASP.NET MVC, Entity Framework, SQL Server, Oracle |
+| **Frontend** | SPA Angular, lazy loading, guards, módulos por rol, diseño responsive |
+| **Azure** | Microsoft Entra ID (registros API, Front SPA, Graph), App Service (Web App .NET Core), Azure Storage (v2, RA-GRS, soft delete, versionado), MSAL y Microsoft Graph (migración desde ADAL/Azure AD Graph), Application Insights |
+| **AWS** | ECS con Fargate y/o EC2 (ASG), ECR para imágenes Docker del backend .NET, RDS SQL Server (Web Edition), VPC con múltiples AZ, ALB, Route 53, Secrets Manager, CloudWatch, Amplify para frontend |
+| **Documentación** | Inventario de servicios, checklists de replicación y buenas prácticas (TLS 1.2+, optional claims, IAM/roles, seguridad) |
 
 ---
 
