@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisLG007)
 
 ---
-
+@
 </div>
 
 ## 🚀 Sobre mí
@@ -124,7 +124,7 @@ Plataforma académica y gestión universitaria (Angular + .NET + SQL Server). He
 ¿Colaboración, ofertas o consultas técnicas?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luis-alberto-l%C3%B3pez-guti%C3%A9rrez-6280251b3/)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:LuisLSC@outlook.com)
 
 ---
 
